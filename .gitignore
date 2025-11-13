@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Arduino build files
+*.hex
+*.elf
+
+# Virtual environment folders
+venv/
+.env/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# System files
+Thumbs.db
+.DS_Store
